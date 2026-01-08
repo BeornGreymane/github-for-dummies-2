@@ -1,3 +1,3 @@
 # github-for-dummies-2
 
-Dette er (kanskje) sterten på noe vakkert. 😄
+Dette er (kanskje) starten på noe vakkert. 😄
